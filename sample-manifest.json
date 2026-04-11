@@ -1,0 +1,12 @@
+{
+  "export_job_id": "bf673c1a-6727-43da-8204-78b056ae231a",
+  "id_short": 103690,
+  "published_at": "2026-04-11T07:02:56Z",
+  "repo_name": "all-restaurants-in-birmingham-metro-alabama-us-sample-103690",
+  "sample_asset_name": "beamstation_103690_restaurants-us-birminghamal_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/103690/beamstation_103690_restaurants-us-birminghamal_SAMPLE_DIST.csv",
+  "sample_records": 287,
+  "sample_sha256": "b765c8597c96087d026f758a699aeb78158bd3ae319a70683cac93a873f73a64",
+  "sample_size_bytes": 1023826,
+  "total_records": 2874
+}
