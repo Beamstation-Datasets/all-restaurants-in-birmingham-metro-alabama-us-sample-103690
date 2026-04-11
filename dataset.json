@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant data for the Birmingham metropolitan area in Alabama. Filtered by the Restaurants category group, this dataset covers the Magic City's dining market with business profiles, ratings, review trends, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Birmingham (Metro), Alabama, US",
+  "export_job_id": "bf673c1a-6727-43da-8204-78b056ae231a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 103690,
+  "location_name": "Birmingham, AL",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-birmingham-metro-alabama-us-sample-103690",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/103690/beamstation_103690_restaurants-us-birminghamal_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 287,
+  "sample_sha256": "b765c8597c96087d026f758a699aeb78158bd3ae319a70683cac93a873f73a64",
+  "sample_size_bytes": 1023826,
+  "total_records": 2874,
+  "updated_at": "2026-04-07T11:25:06.517882+00:00"
+}
